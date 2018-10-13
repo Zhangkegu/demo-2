@@ -112,6 +112,6 @@ $(function(){
 //回到顶部js
 $('.gototop').click(function(){
     $('body').animate({scrollTop:0});
-}) /**
+}); /**
  * Created by Administrator on 2016/6/18.
  */
