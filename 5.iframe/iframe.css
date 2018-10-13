@@ -120,7 +120,7 @@ i{font-style: normal;}
 }
 /*newsicon图标*/
 .newsicon .newsimg1 div{
-    background-image: url("https://img12.360buyimg.com/da/jfs/t1987/293/2817383495/6392/c219eb53/56f4e6b8N940f608c.png");
+    background-image: url(https://img12.360buyimg.com/da/jfs/t1987/293/2817383495/6392/c219eb53/56f4e6b8N940f608c.png);
 }
 .newsicon .newsimg2 div{
 	background: url(https://misc.360buyimg.com/product/home/1.0.0/widget/lifeserv/i/icon_lifeserv.png) no-repeat -25px -25px;
